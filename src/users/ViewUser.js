@@ -39,7 +39,7 @@ export default function ViewUser() {
     const callValue = ()=>{
         setValue(
         <>
-           <p>Naomba kuona matokeo yako</p>
+           <p>Naomba kuona matokeo yako changes</p>
         </>
         );
     }
