@@ -1,0 +1,7 @@
+{
+    "blogs":[
+            { "id":1,"title": "14 Ways Json Can Improve Your SEO", "headline": "Say the women who love react","editor": "John Wela" },
+            { "id":2,"title": "14 Ways Json Can Improve Your work", "headline": "One the women who love almost","editor": "Sine R" },
+            { "id":3,"title": "14 Ways Json Can Improve Your notion", "headline": "and the women who love them","editor": "Peace J" }
+       ]
+}
